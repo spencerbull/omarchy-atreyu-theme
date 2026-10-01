@@ -1,0 +1,54 @@
+# Atreyu — an Omarchy theme cut from the Atreyu launch film.
+# Palette extracted with Aether from the "mythic valley" background (a river of
+# amber light through dark, misted mountains), then tuned by hand: the amber
+# river is the accent; the mist's warm cream is the text; everything else is the
+# valley's steel blue and near-black navy.
+mode = "dark"
+
+accent = "#ef9240"
+selection = "#1f3a4c"
+muted = "#5a6a78"
+
+background = "#0a1a26"
+dark_background = "#06111a"
+darker_background = "#030a10"
+lighter_background = "#16303f"
+
+foreground = "#e9e2d5"
+dark_foreground = "#b9ad98"
+light_foreground = "#f2e8d6"
+bright_foreground = "#fbecd1"
+
+red = "#e46b5e"
+yellow = "#f5c56b"
+orange = "#ef9240"
+green = "#8fc99a"
+cyan = "#7fc4d4"
+blue = "#7fa6c9"
+magenta = "#b995c9"
+brown = "#8a5a3a"
+
+bright_red = "#f0857a"
+bright_yellow = "#ffd98c"
+bright_green = "#a8dcb1"
+bright_cyan = "#9fdbe8"
+bright_blue = "#9dbfe0"
+bright_magenta = "#d0aee0"
+
+# ANSI slots for tools that still read them
+color0 = "#0a1a26"
+color1 = "#e46b5e"
+color2 = "#8fc99a"
+color3 = "#f5c56b"
+color4 = "#7fa6c9"
+color5 = "#b995c9"
+color6 = "#7fc4d4"
+color7 = "#e9e2d5"
+color8 = "#5a6a78"
+color9 = "#f0857a"
+color10 = "#a8dcb1"
+color11 = "#ffd98c"
+color12 = "#9dbfe0"
+color13 = "#d0aee0"
+color14 = "#9fdbe8"
+color15 = "#fbecd1"
