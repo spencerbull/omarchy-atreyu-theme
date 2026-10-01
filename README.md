@@ -34,10 +34,13 @@ All of them are high-resolution renders, not upscaled thumbnails.
 
 - `atreyu-valley.mp4` — the animated valley from the film's opening shot (2880×1800, ping-pong loop, ~10 s).
   Midjourney only renders video at 832×464, so this is a Real-ESRGAN 4× upscale of that clip, frame by frame.
+- `atreyu-canyon-loop.mp4` — a second animated one: the canyon still below, set in motion by Midjourney's loop mode and upscaled the same way.
+  It loops end to start with no reversal (2880×1800, ~5 s).
 - `atreyu-valley-canyon.jpg` — the river cutting through a dark canyon (closest to the moving one)
 - `atreyu-valley-clouds.jpg` — the river seen from above the cloud deck
 - `atreyu-valley-dusk.jpg` — last light on the ridges, lights in the valley floor
 - `atreyu-valley-orbit.jpg` — the river from the edge of the sky
+- `atreyu-molten-canyon.jpg`, `atreyu-molten-peaks.jpg` — the hotter cousins: molten light through black rock
 
 The stills are Midjourney HD renders at 2784×1744 (16:10).
 
