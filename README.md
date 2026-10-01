@@ -30,7 +30,15 @@ the warm mist is the text, and the rest is the valley's steel blue over near-bla
 
 ## Backgrounds
 
-- `atreyu-valley.mp4` — the animated valley (2880×1800, ping-pong loop, ~10 s)
-- `atreyu-valley-*.png` — stills from the same series
+All of them are high-resolution renders, not upscaled thumbnails.
+
+- `atreyu-valley.mp4` — the animated valley from the film's opening shot (2880×1800, ping-pong loop, ~10 s).
+  Midjourney only renders video at 832×464, so this is a Real-ESRGAN 4× upscale of that clip, frame by frame.
+- `atreyu-valley-canyon.jpg` — the river cutting through a dark canyon (closest to the moving one)
+- `atreyu-valley-clouds.jpg` — the river seen from above the cloud deck
+- `atreyu-valley-dusk.jpg` — last light on the ridges, lights in the valley floor
+- `atreyu-valley-orbit.jpg` — the river from the edge of the sky
+
+The stills are Midjourney HD renders at 2784×1744 (16:10).
 
 Imagery generated with Midjourney V8 for the Atreyu launch. MIT licensed, do what you like with it.
